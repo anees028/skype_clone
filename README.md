@@ -3,10 +3,10 @@
 
 <p align="center"> 
   <kbd>
-<img src="./Screens/Screen1/Screen1.PNG"></img>
-<img src="./Screens/Screen2/Screen2.PNG"></img>
-<img src="./Screens/Screen3/Screen3.PNG"></img>
-<img src="./Screens/Screen4/Screen4.PNG"></img>
+<img src="./Screens/Screen1/Screen1.PNG" width='50%' height='50%'></img>
+<img src="./Screens/Screen2/Screen2.PNG" width='50%' height='50%'></img>
+<img src="./Screens/Screen3/Screen3.PNG" width='50%' height='50%'></img>
+<img src="./Screens/Screen4/Screen4.PNG" width='50%' height='50%'></img>
   </kbd>
 </p>
 
